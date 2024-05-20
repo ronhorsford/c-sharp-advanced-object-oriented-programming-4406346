@@ -3,6 +3,7 @@
 public class MyClass {
     public MyClass() {}
 
+
     // public members can be accessed from any other class
     public void Func1() {
         Console.WriteLine("This is Func1");

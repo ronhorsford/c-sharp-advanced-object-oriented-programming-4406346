@@ -5,6 +5,7 @@
 MyClass class1 = new MyClass();
 DerivedClass class2 = new DerivedClass();
 
+
 // Access the methods
 Console.WriteLine($"Class1 Data value is {class1.Data}");
 class1.Func1();
